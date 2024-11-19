@@ -10,7 +10,7 @@ Note: I developed this project as my Lab 4 assignment for my Mobile App. Dev. cl
 The Movie Search App is a mobile application that allows users to search for movies, view details, and manage their favorites. This project was designed to practice working with APIs, collection views, and dynamic UI updates in Swift. The app provides a sleek interface for browsing movies and offers functionality for saving and reviewing favorite movies.
 
 <div align="center">
-    <img src="Movie-Search-Vertical.png" alt="screenshot" height="700px">
+    <img src="movie-search.png" alt="screenshot" height="700px">
 </div>
 
 ## Technologies/Frameworks Used
